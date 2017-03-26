@@ -1,0 +1,2 @@
+# RuntimePermission
+通过BaseActivity，使用原生代码，实现简单封装，但还不完善，未对shouldShowRational做处理
